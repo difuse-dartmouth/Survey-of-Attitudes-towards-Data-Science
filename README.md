@@ -1,4 +1,4 @@
-# Survey-of-Attitudes-towards-Data-Science
+![DIFUSE Survey of Attitudes towards Data Science, Dartmouth College. NSF IUSE-1917002](DIFSUE-SADS.png "DIFUSE Survey of Attitudes towards Data Science. NSF IUSE-1917002")
 
 This survey was developed by Mandy Li, Scott Pauls, and Olivia Szendey through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
